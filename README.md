@@ -20,7 +20,7 @@
 - 데이터분석 **리포팅** 방법
 
 ## 주차 별 진행 내용 확인
-**진행내용** : [화요일엔 나도 SQL 요리사! - Wiki](https://github.com/donga-it-club/sql-study/wiki)
+**진행내용** : [화요일엔 나도 SQL 요리사! - Wiki](https://github.com/donga-it-club/sql-study/wiki/%ED%99%94%EC%9A%94%EC%9D%BC%EC%9D%80-%EB%82%98%EB%8F%84-SQL-%EC%9A%94%EB%A6%AC%EC%82%AC!)
 
 ## 문의사항
 [스터디 리더 톡명함](https://namecard.kakao.com/hongwon)<br>

@@ -25,7 +25,7 @@
 
 ## 문의사항
 [스터디 리더 톡명함](https://namecard.kakao.com/hongwon)<br>
-[익명 질문](https://docs.google.com/forms/d/1EYFsKdRc7z5gnIFNfii_rFhQIlBUuyx9VZGOPDx8BrI/edit)
+
 
 
 
